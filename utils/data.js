@@ -2,6 +2,7 @@ const data = {
   products: [
     {
       name: 'Buncis',
+      slug: 'buncis',
       category: 'sayur',
       image: '/images/buncis.jpg',
       price: 10,
@@ -12,6 +13,7 @@ const data = {
     },
     {
       name: 'Kacang Panjang',
+      slug: 'kacang-panjang',
       category: 'sayur',
       image: '/images/kacangpanjang.jpg',
       price: 5,
@@ -22,6 +24,7 @@ const data = {
     },
     {
       name: 'Pakcoy',
+      slug: 'pakcoy',
       category: 'sayur',
       image: '/images/pakcoy.jpg',
       price: 2,
@@ -32,6 +35,7 @@ const data = {
     },
     {
       name: 'Sawi',
+      slug: 'sawi',
       category: 'sayur',
       image: '/images/sawi.jpg',
       price: 3,
@@ -42,6 +46,7 @@ const data = {
     },
     {
       name: 'Terong Ungu',
+      slug: 'terong-ungu',
       category: 'sayur',
       image: '/images/terongungu.jpg',
       price: 5,
@@ -52,6 +57,7 @@ const data = {
     },
     {
       name: 'Apel',
+      slug: 'apel',
       category: 'buah',
       image: '/images/apel.jpg',
       price: 3,
@@ -62,6 +68,7 @@ const data = {
     },
     {
       name: 'Jeruk',
+      slug: 'jeruk',
       category: 'buah',
       image: '/images/jeruk.jpg',
       price: 2,
@@ -72,6 +79,7 @@ const data = {
     },
     {
       name: 'Pepaya',
+      slug: 'pepaya',
       category: 'buah',
       image: '/images/pepaya.jpg',
       price: 4,
