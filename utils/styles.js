@@ -4,9 +4,16 @@ const useStyles = makeStyles({
   navbar: {
     backgroundColor: '#3C6255',
     '& a': {
-      color: '#fffff',
+      color: '#ffffff',
       marginLeft: 10,
     },
+  },
+  brand: {
+    fontWeight: 'bold',
+    fontSize: '1.5rem',
+  },
+  grow: {
+    flexGrow: 1,
   },
   main: {
     minHeight: '80vh',
